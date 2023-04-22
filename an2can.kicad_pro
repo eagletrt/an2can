@@ -359,7 +359,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "template.kicad_pro",
+    "filename": "an2can.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -466,6 +466,10 @@
     [
       "bdc7face-9f7c-4701-80bb-4cc144448db1",
       ""
+    ],
+    [
+      "4beb5c7e-5146-42a9-9809-727e5c96bc2a",
+      "MCU"
     ]
   ],
   "text_variables": {}
