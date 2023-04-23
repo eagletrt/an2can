@@ -470,6 +470,14 @@
     [
       "4beb5c7e-5146-42a9-9809-727e5c96bc2a",
       "MCU"
+    ],
+    [
+      "7f0bba15-6b82-4b90-903b-3afc34827246",
+      "INA"
+    ],
+    [
+      "7ff85fde-c086-4068-80f1-ddf42f2492cb",
+      "OpAmp"
     ]
   ],
   "text_variables": {}
