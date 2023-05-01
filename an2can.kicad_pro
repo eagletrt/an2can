@@ -44,7 +44,7 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "45_degree_only": false,
+          "45_degree_only": true,
           "min_clearance": 0.508
         }
       },
@@ -521,7 +521,7 @@
       "MCU"
     ],
     [
-      "9b3bc110-5ec8-4281-8c61-8a8f13f92f62",
+      "89b2684b-7644-4403-bb4f-3ddcf583cff5",
       "Input Stage 2"
     ],
     [
@@ -529,11 +529,11 @@
       "Input Stage 1"
     ],
     [
-      "75429ab0-192d-4d7e-97bd-f4d134120d5e",
+      "fc21d181-c372-42e1-a22b-57d40a7882e4",
       "Input Stage 3"
     ],
     [
-      "defc81a5-dcdc-4c59-8f87-e28dc86c3813",
+      "67ee2e98-be48-4059-9ede-6dca543bc034",
       "Input Stage 4"
     ]
   ],
