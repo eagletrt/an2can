@@ -4216,6 +4216,18 @@
     (path "/67ee2e98-be48-4059-9ede-6dca543bc034/84d12e5f-1790-4028-9ebc-878515c96aac"
       (reference "#PWR0133") (unit 1) (value "GNDA") (footprint "")
     )
+    (path "/89b2684b-7644-4403-bb4f-3ddcf583cff5/71db4a92-6f4a-40ff-b9d3-8097a786ed55"
+      (reference "#PWR0134") (unit 1) (value "+3.3VA") (footprint "")
+    )
+    (path "/7ff85fde-c086-4068-80f1-ddf42f2492cb/71db4a92-6f4a-40ff-b9d3-8097a786ed55"
+      (reference "#PWR0135") (unit 1) (value "+3.3VA") (footprint "")
+    )
+    (path "/fc21d181-c372-42e1-a22b-57d40a7882e4/71db4a92-6f4a-40ff-b9d3-8097a786ed55"
+      (reference "#PWR0136") (unit 1) (value "+3.3VA") (footprint "")
+    )
+    (path "/67ee2e98-be48-4059-9ede-6dca543bc034/71db4a92-6f4a-40ff-b9d3-8097a786ed55"
+      (reference "#PWR0137") (unit 1) (value "+3.3VA") (footprint "")
+    )
     (path "/4beb5c7e-5146-42a9-9809-727e5c96bc2a/a4021951-ef6a-4d4d-b6b9-84c2f39ec0da"
       (reference "#PWR0150") (unit 1) (value "GND") (footprint "")
     )
@@ -4329,6 +4341,18 @@
     )
     (path "/67ee2e98-be48-4059-9ede-6dca543bc034/589ab74e-0c8d-49f4-93e4-f4c15a81cfdd"
       (reference "D6") (unit 1) (value "D_Schottky") (footprint "Diode_SMD:D_SOD-123")
+    )
+    (path "/89b2684b-7644-4403-bb4f-3ddcf583cff5/eae558c9-e78f-49b8-b200-a3833c9512b6"
+      (reference "D7") (unit 1) (value "D_Schottky") (footprint "Diode_SMD:D_SOD-123")
+    )
+    (path "/7ff85fde-c086-4068-80f1-ddf42f2492cb/eae558c9-e78f-49b8-b200-a3833c9512b6"
+      (reference "D8") (unit 1) (value "D_Schottky") (footprint "Diode_SMD:D_SOD-123")
+    )
+    (path "/fc21d181-c372-42e1-a22b-57d40a7882e4/eae558c9-e78f-49b8-b200-a3833c9512b6"
+      (reference "D9") (unit 1) (value "D_Schottky") (footprint "Diode_SMD:D_SOD-123")
+    )
+    (path "/67ee2e98-be48-4059-9ede-6dca543bc034/eae558c9-e78f-49b8-b200-a3833c9512b6"
+      (reference "D10") (unit 1) (value "D_Schottky") (footprint "Diode_SMD:D_SOD-123")
     )
     (path "/87769786-c5e2-4611-8552-47db311051ae"
       (reference "FB1") (unit 1) (value "FerriteBead") (footprint "Inductor_SMD:L_0603_1608Metric")
@@ -4569,6 +4593,30 @@
     )
     (path "/4beb5c7e-5146-42a9-9809-727e5c96bc2a/601db034-df6d-4752-9e31-406c8e0d6d45"
       (reference "R60") (unit 1) (value "R") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/89b2684b-7644-4403-bb4f-3ddcf583cff5/31186efc-7965-4f17-91aa-c8277c76d22f"
+      (reference "R61") (unit 1) (value "R") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/89b2684b-7644-4403-bb4f-3ddcf583cff5/5d376665-5b40-4649-ac9b-aec98295fa94"
+      (reference "R62") (unit 1) (value "R") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/7ff85fde-c086-4068-80f1-ddf42f2492cb/31186efc-7965-4f17-91aa-c8277c76d22f"
+      (reference "R63") (unit 1) (value "R") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/7ff85fde-c086-4068-80f1-ddf42f2492cb/5d376665-5b40-4649-ac9b-aec98295fa94"
+      (reference "R64") (unit 1) (value "R") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/fc21d181-c372-42e1-a22b-57d40a7882e4/31186efc-7965-4f17-91aa-c8277c76d22f"
+      (reference "R65") (unit 1) (value "R") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/fc21d181-c372-42e1-a22b-57d40a7882e4/5d376665-5b40-4649-ac9b-aec98295fa94"
+      (reference "R66") (unit 1) (value "R") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/67ee2e98-be48-4059-9ede-6dca543bc034/31186efc-7965-4f17-91aa-c8277c76d22f"
+      (reference "R67") (unit 1) (value "R") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/67ee2e98-be48-4059-9ede-6dca543bc034/5d376665-5b40-4649-ac9b-aec98295fa94"
+      (reference "R68") (unit 1) (value "R") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/4beb5c7e-5146-42a9-9809-727e5c96bc2a/23cbb7d9-66ee-4905-bd64-f1b66873ec35"
       (reference "RN1") (unit 1) (value "R") (footprint "Resistor_SMD:R_Array_Convex_4x0603")
