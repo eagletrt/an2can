@@ -4785,7 +4785,7 @@
       (reference "U2") (unit 1) (value "Tex_DCDC_v2") (footprint "Eagle_Main:Tex_DCDC_v2_horizontal")
     )
     (path "/4beb5c7e-5146-42a9-9809-727e5c96bc2a/ef870738-4431-4657-85e5-028df92c098f"
-      (reference "U3") (unit 1) (value "DSC61XX") (footprint "Package_LGA:VLGA-4_2x2.5mm_P1.65mm")
+      (reference "U3") (unit 1) (value "DSC61XX") (footprint "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm")
     )
     (path "/4beb5c7e-5146-42a9-9809-727e5c96bc2a/4bb4f30d-f561-4afd-916a-08edeea94646"
       (reference "U4") (unit 1) (value "STM32L432KCUx") (footprint "Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm")

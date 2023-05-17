@@ -4320,7 +4320,7 @@
     (uuid ef870738-4431-4657-85e5-028df92c098f)
     (property "Reference" "U3" (id 0) (at 26.67 54.61 0))
     (property "Value" "DSC61XX" (id 1) (at 26.67 57.15 0))
-    (property "Footprint" "Package_LGA:VLGA-4_2x2.5mm_P1.65mm" (id 2) (at 26.67 63.5 0)
+    (property "Footprint" "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm" (id 2) (at 26.67 63.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "docs/datasheets/osc_dsc61xx.pdf" (id 3) (at 26.67 63.5 0)
